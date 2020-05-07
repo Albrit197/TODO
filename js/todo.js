@@ -18,4 +18,4 @@ function renderList( list ) {
     return listPlace.innerHTML += HTML;
 }
 
-renderList(todo_list);
+renderList (todo_list);

@@ -20,7 +20,8 @@ let todo_list = [
     {
         description: 'Sugalvoti nauja uzduoti',
         created_on: '2020-05-07 14:28',
-        deadline: '2020-05-08 16:02',
-        status: 'done'
+        deadline: '2020-05-11 13:17',
+        status: 'in-progress'
     }
 ];
+© 2020 GitHub, Inc.

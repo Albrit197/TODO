@@ -24,4 +24,3 @@ let todo_list = [
         status: 'in-progress'
     }
 ];
-© 2020 GitHub, Inc.

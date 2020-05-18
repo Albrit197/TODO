@@ -1,2 +1,2 @@
 # TODO
- To do list project
+todo programele sukurta mokomuoju tikslu.
